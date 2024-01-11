@@ -7,6 +7,7 @@
 ## Technology and Requirements
 ### Application has been written in Java, without any additional frameworks and tools like Gradle, Maven or Ant. I had to implement:
 ### * Graphical user interface (Swing),
+### * Collection of objects
 ### * Network communication, server-client architecture,
 ### * Java multithreading,
 ### * Interface and lambda expressions,
